@@ -278,6 +278,22 @@ in_menu: true
 
   <article class="framalibre-notice">
     <div>
+      <img src="https://beta.framalibre.org/images/logo/Sengi.png">
+    </div>
+    <div>
+      <h2>Sengi</h2>
+      <p>Un client pour Mastodon et Pleroma surpportant les comptes multiples</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/sengi.html">Vers la notice Framalibre</a>
+        <a href="https://nicolasconstant.github.io/sengi/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
       <img src="https://beta.framalibre.org/images/logo/Mattermost.png">
     </div>
     <div>
