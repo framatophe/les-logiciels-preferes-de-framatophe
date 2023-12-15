@@ -229,6 +229,22 @@ in_menu: true
     </div>
   </article>
 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/Mutt.gif">
+    </div>
+    <div>
+      <h2>Mutt</h2>
+      <p>Mutt est un client de messagerie en mode console hautement configurable</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/mutt.html">Vers la notice Framalibre</a>
+        <a href="http://www.mutt.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
   
   <article class="framalibre-notice">
     <div>
