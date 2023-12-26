@@ -3,8 +3,6 @@ title: "Les logiciels préférés de Framatophe"
 order: 0
 in_menu: true
 ---
-# (Notices générées à partir de Framalibre)
-
 
 
 ## Écrire
