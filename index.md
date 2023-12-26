@@ -7,7 +7,6 @@ in_menu: true
 
 
 
-
 ## Écrire
 
   <article class="framalibre-notice">
